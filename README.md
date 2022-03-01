@@ -100,3 +100,31 @@ git commit -m "訊息"
 4.2. git push 推送上雲端
 
 (Chrome 要登入才行)
+
+## week02
+step01-1
+
+ 1.下載範例 jsyeh.org/3dcg10
+
+data.zip windows.zip glut32.dll
+
+2.windows.zip =解壓=> 下載\windows\Shapes.exe
+
+data.zip =解壓=> 下載\windows\data\模型 
+
+glut32.dll =複製=> 下載\windows\glut32.dll
+
+3.跑 Shapes.exe看範例,試試看
+
+
+
+
+
+step01-2
+1. 上周的安裝 Git for Windows
+
+2. 上周的Git Bash: cd desktop,git clone 我的網址
+
+3. 上周的安裝 freeglut 改檔名 lib\libglut32.a
+
+4.  在CodeBlocks File-Open week01_GLUT專案,執行
